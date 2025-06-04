@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samarth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Flutter,AWS**
+- 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Jenkins**
 
 - 💬 Ask me about **Node JS, React JS**
 
